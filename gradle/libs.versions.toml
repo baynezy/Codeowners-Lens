@@ -5,7 +5,7 @@ sinceBuild = "231"
 untilBuild = "242.*"
 intellijPlugin = "2024.1.5"
 dagger = "2.10"
-mockito = "4.2.0"
+mockito = "5.14.2"
 mockitoKotlin = "4.0.0"
 detekt = "1.23.6"
 
